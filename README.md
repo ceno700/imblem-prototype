@@ -1,2 +1,1 @@
-# imblem-prototype
-imblem prototype
+# Imblem — Full Next.js 14 Prototype\n\nRun `npm install` then `npm run dev` to preview locally. Deploy to Vercel as-is.
